@@ -6,7 +6,7 @@ Graduated from RIT Croatia with a bachelor's degree in Web & Mobile Computing in
 
 I've been working as a software developer for nearly 2 years, and currently, I'm positioned at Cinnamon Agency in Zagreb,</br>
 with specialization in back-end development. In my previous job, I've had the opportunity to work as a full-stack web developer</br>
-on a few bigger projects realted to big data and SQL database migration.
+on a few bigger projects related to big data and SQL database migration.
 
 🛠️ Tech Stack knowledge:</br>
 Advance: TypeScript/JavaScript, Node.js</br>
@@ -37,17 +37,6 @@ Beginner: AWS (EC2, VPC, S3)</br>
 
 email: dominik.bosnjak94@gmail.com
 
-<!--
-**dbosnjak94/dbosnjak94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+or
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png"/>
