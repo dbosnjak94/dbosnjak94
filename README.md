@@ -39,6 +39,12 @@ email: dominik.bosnjak94@gmail.com
 
 or
 
+<a href="linkedin.com/in/dominik-bosnjak94">
+    <img src="https://img.icons8.com/color/35/000000/linkedin.png"/>
+</a>
+<a href="https://www.instagram.com/dominikbosnjak94/">
+    <img src="https://img.icons8.com/fluency/35/000000/instagram-new.png"/>
+</a>
 <a href="https://www.facebook.com/dominik.bosnjak.9/">
-     <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>    
+     <img src="https://img.icons8.com/color/35/000000/facebook-new.png"/>    
 </a>
