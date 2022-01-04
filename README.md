@@ -2,7 +2,7 @@
 
 I'm Dominik Bosnjak! 😄
 
-Graduated from RIT Croatia with a bachelor's degree in Web & Mobile Computing in May 2021! 🔭
+Graduated from RIT Croatia with a bachelor's degree in Web & Mobile Computing in May 2021 🔭
 
 I've been working as a software developer for nearly 2 years, and currently, I'm positioned at Cinnamon Agency in Zagreb,</br>
 with specialization in back-end development. In my previous job, I've had the opportunity to work as a full-stack web developer</br>
