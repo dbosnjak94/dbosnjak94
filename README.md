@@ -8,29 +8,29 @@ I've been working as a software developer for nearly 2 years, and currently, I'm
 with specialization in back-end development. In my previous job, I've had the opportunity to work as a full-stack web developer</br>
 on a few bigger projects related to big data and SQL database migration.
 
-🛠️ Tech Stack knowledge:</br>
+🛠️ <b>Tech Stack knowledge:</b></br>
 Advance: TypeScript/JavaScript, Node.js</br>
 Intermediate: PHP, C#, Java, Next.js/React.js, Vue,js</br>
 Begginer: Kotlin, SwiftUI</br>
 
-📁 Database knowledge:</br>
+📁 <b>Database knowledge:</b></br>
 Advance: MySQL</br>
 Intermediate: Mongo, Firebase</br>
 
-💭 Cloud services knowledge:</br>
+💭 <b>Cloud services knowledge:</b></br>
 Beginner: AWS (EC2, VPC, S3)</br>
 
-💻 Interesting bigger projects I've been working on in the past:
+💻 <b>Interesting bigger projects I've been working on in the past:</b>
 
-- Event Management App "Planny" (personal project, constantly refactoring and improving) </br>
+- <b>Event Management App "Planny"</b> (personal project, constantly refactoring and improving) </br>
   Node.js (TypeScript), Vue.js / React.js, MySQL
-- Child Development Monitoring Web App</br>
+- <b>Child Development Monitoring Web App</b></br>
   Node.js (TypeScirpt), AWS, MySQL, Next.js, AWS, Nginx
-- Marketing and User Activity Monitoring Web App</br>
+- <b>Marketing and User Activity Monitoring Web App</b></br>
   Node.js (TypeScirpt), AWS, MySQL, Next.js, AWS, Nginx
-- Database Migration Tool App</br>
+- <b>Database Migration Tool App</b></br>
   Node.js (Javascript), Vue.js, MySQL
-- Many other smaller practice projects</br>
+- <b>Many other smaller practice projects</b></br>
   Vue.js, React.js/Next.js, Java, C#, PHP, Mongo, Firebase
 
 💬 If you have any questions or just want to say hi, feel free to contact me on:
