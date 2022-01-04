@@ -9,7 +9,7 @@ with specialization in back-end development. In my previous job, I've had the op
 on a few bigger projects related to big data and SQL database migration.
 
 🛠️ <b>Tech Stack knowledge:</b></br>
-Advance: <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="width:200px;height:300px;"/>, <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>, <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></br>
+Advance: <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="width:100px;height:40px;"/>, <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>, <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></br>
 Intermediate: PHP, C#, Java, Next.js/React.js, Vue,js</br>
 Begginer: Kotlin, SwiftUI</br>
 
