@@ -14,11 +14,11 @@ Intermediate: <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-ba
 Begginer: <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" style="width:120px;height:25px;"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" style="width:120px;height:25px;"/></br>
 
 📁 <b>Database knowledge:</b></br>
-Advance: MySQL<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="width:120px;height:25px;"/></br>
-Intermediate: Mongo<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="width:120px;height:25px;"/>, Firebase<img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="width:120px;height:25px;"/></br>
+Advance: <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" style="width:120px;height:25px;"/></br>
+Intermediate: <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="width:120px;height:25px;"/><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="width:120px;height:25px;"/></br>
 
 💭 <b>Cloud services knowledge:</b></br>
-Beginner: AWS <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="width:120px;height:25px;"/> (EC2, VPC, S3)</br>
+Beginner: <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="width:120px;height:25px;"/> (EC2, VPC, S3)</br>
 
 💻 <b>Interesting bigger projects I've been working on in the past:</b>
 
