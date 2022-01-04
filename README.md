@@ -22,7 +22,7 @@ Beginner: AWS (EC2, VPC, S3)</br>
 
 💻 Interesting bigger projects I've been working on in the past:
 
-- Event Management App (personal project, constantly refactorin and improving) </br>
+- Event Management App "Planny" (personal project, constantly refactoring and improving) </br>
   Node.js (TypeScript), Vue.js / React.js, MySQL
 - Child Development Monitoring Web App</br>
   Node.js (TypeScirpt), AWS, MySQL, Next.js, AWS, Nginx
