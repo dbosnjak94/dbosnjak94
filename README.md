@@ -9,7 +9,7 @@ with specialization in back-end development. In my previous job, I've had the op
 on a few bigger projects related to big data and SQL database migration.
 
 🛠️ <b>Tech Stack knowledge:</b></br>
-Advance: TypeScript/JavaScript, Node.js</br>
+Advance: TypeScript/JavaScript,<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></br>
 Intermediate: PHP, C#, Java, Next.js/React.js, Vue,js</br>
 Begginer: Kotlin, SwiftUI</br>
 
