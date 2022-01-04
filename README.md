@@ -39,6 +39,6 @@ email: dominik.bosnjak94@gmail.com
 
 or
 
-<a href="https://www.qries.com/">
-     <img src="https://www.facebook.com/dominik.bosnjak.9/"/>    
+<a href="https://www.facebook.com/dominik.bosnjak.9/">
+     <img src="https://img.icons8.com/color/48/000000/facebook-new.png"/>    
 </a>
