@@ -13,11 +13,11 @@ Advance: TypeScript/JavaScript, Node.js</br>
 Intermediate: PHP, C#, Java, Next.js/React.js, Vue,js</br>
 Begginer: Kotlin, SwiftUI</br>
 
-Database knowledge:</br>
+📁 Database knowledge:</br>
 Advance: MySQL</br>
 Intermediate: Mongo, Firebase</br>
 
-Cloud services knowledge:</br>
+💭 Cloud services knowledge:</br>
 Beginner: AWS (EC2, VPC, S3)</br>
 
 💻 Interesting bigger projects I've been working on in the past:
