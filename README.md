@@ -18,7 +18,7 @@ Advance: <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge
 Intermediate: <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" style="height:25px;"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" style="height:25px;"/></br>
 
 💭 <b>Cloud services knowledge:</b></br>
-Beginner: <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="height:25px;"/> (EC2, VPC, S3)</br>
+Intermediate: <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" style="height:25px;"/> (EC2, VPC, S3)</br>
 
 💻 <b>Interesting bigger projects I've been working on in the past:</b>
 
