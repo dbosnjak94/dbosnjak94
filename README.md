@@ -2,12 +2,6 @@
 
 I'm Dominik Bosnjak! 😄
 
-Graduated from RIT Croatia with a bachelor's degree in Web & Mobile Computing in May 2021 🔭
-
-I've been working as a software developer for nearly 2 years, with specialization in back-end development.</br>
-In my previous job, I've had the opportunity to work as a full-stack web developer on a few bigger projects</br>
-related to big data and SQL database migration.
-
 🛠️ <b>Tech Stack knowledge:</b></br>
 Advance: <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="height:25px;"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" style="height:25px;"/> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="height:25px;"/> </br>
 Intermediate: <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="height:25px;"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" style="height:25px;"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" style="height:25px;"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="height:25px;"/> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" style="height:25px;"/><img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" style="height:25px;"/></br>
