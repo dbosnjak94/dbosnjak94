@@ -2,6 +2,14 @@
 
 I'm Dominik Bosnjak! 😄
 
+As a passionate software developer, I specialize in crafting efficient and scalable solutions for web and backend systems. Over the years, I’ve developed my expertise in modern backend frameworks and languages such as TypeScript, JavaScript, C#, and Java, utilizing technologies like Nest.js, Node.js, Next.js, and React.js to build reliable and scalable applications. My experience spans a variety of industries and project scopes, from serverless solutions used by millions of users to full-stack applications for event management and database migration.
+
+Proficient in database technologies like MySQL, Firebase, and MongoDB, I have also gained significant expertise in cloud platforms, particularly AWS, including services like EC2, VPC, S3, Lambda, and DynamoDB.
+
+Currently, I am contributing to Spirii as a backend engineer, developing cutting-edge solutions in the dynamic and impactful field of electric vehicle (EV) charging infrastructure. At Spirii, I focus on ensuring the performance and reliability of backend services that power innovative EV solutions, helping pave the way for a more sustainable and electrified future.
+
+
+
 💻 <b>Interesting bigger projects I've been working on in the past:</b>
 
 - <b>Event Management App "Planny"</b> (personal project, constantly refactoring and improving) </br>
